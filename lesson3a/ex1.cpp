@@ -1,4 +1,4 @@
-// ONLY VERB, THE FIRST VERSION IMPLEMENTED WITH WHILE LOOP!!!!!!!!!!!!
+// ONLY VERSION B, THE FIRST VERSION IMPLEMENTED WITH WHILE LOOP!!!!!!!!!!!!
 
 /* lesson3 exercise 1_verb
    Created by roman Gilgor
