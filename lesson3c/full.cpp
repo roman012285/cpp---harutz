@@ -122,7 +122,9 @@ int main() {
 		cout << "Your discount is : " << total_discount << " NIS,  and thus your total payment is : " << final_payment << " NIS" << endl;
 
 	} // option3
-
+	
+	return 0;
+	
 }  // Main
 
 
