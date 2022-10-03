@@ -1,5 +1,5 @@
-//* Assignment number 2 full. Implemented with Switch - Case
-   Prime digits
+/* Assignment number 2 full. Implemented with Switch - Case
+   full version
    Email : roman329@gmail.com
  */
 
